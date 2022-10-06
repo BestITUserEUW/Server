@@ -186,6 +186,7 @@ class Boomer():
 
 
 if __name__=="__main__":
+    print("Juno v0.1")
     bm = Boomer()
     bm.start()
     

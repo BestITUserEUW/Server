@@ -330,6 +330,7 @@ class serverservice():
             
 
 if __name__ == "__main__":
+    print("Server Service v0.0.1")
     ss = serverservice()
     ss.start()
    
